@@ -1,9 +1,9 @@
 const fs = require('fs')
 
 global.creator = 'Upin Store'// yourname
-global.MONGO_DB_URI = "mongodb+srv://upinstore:Dayan260303@mangodb.koxcus7.mongodb.net/?retryWrites=true&w=majority" //database mongodb 
-global.ACTIVATION_TOKEN_SECRET = "Dayan260303" //isi apa aja bebas
-global.your_email = "dayan.farhat03@gmail.com" //email
+global.MONGO_DB_URI = "mongodb+srv://pakalava21:Aby1234@cluster0.336jzqw.mongodb.net/" //database mongodb 
+global.ACTIVATION_TOKEN_SECRET = "Aby1234" //isi apa aja bebas
+global.your_email = "kucing.garong.hitam1234567890@gmail.com" //email
 global.email_password = "sijveaoxmfmzjglx" //application password email
 global.limitCount = 10000
 global.YUOR_PORT = 8000
